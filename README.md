@@ -1,1 +1,1 @@
-# Python-Zomato-Analysis
+In this project, I explore a comprehensive dataset to reveal insightful findings about the distribution of availability of home delivery, takeaway, indoor seating, and vegetarian-only restaurants. Using pandas, matplotlib, and seaborn, I have identified key patterns and trends that can provide benefits to both the company and its customers.
